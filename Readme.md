@@ -1,1 +1,1 @@
-# My git practice
+server=nginx
