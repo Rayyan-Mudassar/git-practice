@@ -1,1 +1,1 @@
-server=nginx
+server=apache
